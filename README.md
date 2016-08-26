@@ -1,6 +1,8 @@
 # ghostwalker-rpg
 
-developed with Unity 5.1.1
+### developed with Unity 5.1.1
+
+A build hasn't been made yet, but you can create your own from the resources on this repo.
 
 Here is a demo from my ig:
 
