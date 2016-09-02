@@ -2,7 +2,7 @@
 
 ### developed with Unity 5.1.1
 
-A build hasn't been made yet, but you can create your own from the resources on this repo.
+A build hasn't been made yet, but you can create your own from the resources here. Clone/download this repo and open from Unity to access the project files.
 
 Here is a demo from my ig:
 
